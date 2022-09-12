@@ -1,0 +1,66 @@
+.title {
+  position: relative;
+  left: 99px;
+  color: #ffff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 52px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+}
+.text {
+  color: #ffff;
+  font-weight: 700;
+  font-size: 40px;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+}
+.btn {
+  position: relative;
+  top: 40px;
+  left: 35px;
+  display: block;
+  width: 150px;
+  padding: 16px;
+  margin: 20px auto;
+  background: #0ab169;
+  border-radius: 4px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+}
+
+.avatar_container1 {
+  position: relative;
+  margin: auto;
+  padding: 40px;
+  left: 123px;
+}
+.avatarInput {
+  position: relative;
+  top: 50px;
+  right: 240px;
+  padding: 5px;
+  border-radius: 6px;
+ 
+}
+.exit_btn {
+  float: right;
+  border: none;
+  padding: 16px;
+  background: #d4190c;
+  border-radius: 8px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-weight: 700;
+  font-size: 20px;
+  font-family: "Poppins";
+  font-style: normal;
+}

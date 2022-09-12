@@ -1,0 +1,75 @@
+
+.container{
+    margin: auto;
+    margin-bottom:190px ;
+    width: 50%;
+    padding: 15px;
+    text-align: center;
+    top: 0px;
+
+
+}
+.victory{
+    position: relative;
+    bottom:10px ;
+    left: 40px;
+
+    
+
+}
+.scoreBoard1{
+    
+position: relative;
+top:100px;
+width: 535px;
+height: 100px;
+background:linear-gradient(92.15deg, #FFD975 35.31%, #FFFFFF 135.61%);
+border-radius: 7px;
+bottom: 207px;
+
+
+}
+.scoreBoard2{
+    position: relative;
+    top: 120px;
+    width: 535px;
+    height: 101.37px;
+    background: #FFFF;
+    border-radius: 7.8023px;
+ 
+    
+}
+.btn{
+position: relative;
+top: 160px;
+left: 19px;
+padding: 20px;
+width: 164px;
+height: 56px;
+background: #A7DAFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.05);
+border-radius: 8px;
+font-size: large;
+color: #0D4477;
+
+}
+
+.firstPlace{
+display: grid;    
+grid-template-columns:25% 25% 25% 25%;
+color:#0D4477;
+padding: 0.9rem;
+
+}
+.secondPlace{
+display: grid;    
+grid-template-columns: 25% 25% 25% 25%;
+color:#0D4477;
+padding: 0.9rem;
+}
+
+
+.content {
+    max-width: 960px;
+    margin: 0 auto;
+  }
